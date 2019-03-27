@@ -1,0 +1,11 @@
+*.suo
+*.user
+bin
+obj
+packages
+.idea
+Screenshots
+TestResults/*
+TestResult.trx
+tools/
+.vscode/
